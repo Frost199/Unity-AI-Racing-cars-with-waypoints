@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 510b42e6a40783244ba99bbd720e331b
+timeCreated: 1462007545
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: PitEntrance/Exit
+    100002: //RootNode
+    100004: RacingOval
+    100006: Cube
+    100008: MissionControlBuilding1
+    100010: Cube.001
+    100012: Cube.002
+    100014: Bleachers
+    100016: Bleachers.001
+    100018: Garage
+    100020: MissionControlBuilding
+    100022: Bleachers.002
+    100024: Bleachers.003
+    400000: PitEntrance/Exit
+    400002: //RootNode
+    400004: RacingOval
+    400006: Cube
+    400008: MissionControlBuilding1
+    400010: Cube.001
+    400012: Cube.002
+    400014: Bleachers
+    400016: Bleachers.001
+    400018: Garage
+    400020: MissionControlBuilding
+    400022: Bleachers.002
+    400024: Bleachers.003
+    2300000: PitEntrance/Exit
+    2300002: RacingOval
+    2300004: Cube
+    2300006: MissionControlBuilding1
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: Bleachers
+    2300014: Bleachers.001
+    2300016: Garage
+    2300018: MissionControlBuilding
+    2300020: Bleachers.002
+    2300022: Bleachers.003
+    3300000: PitEntrance/Exit
+    3300002: RacingOval
+    3300004: Cube
+    3300006: MissionControlBuilding1
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: Bleachers
+    3300014: Bleachers.001
+    3300016: Garage
+    3300018: MissionControlBuilding
+    3300020: Bleachers.002
+    3300022: Bleachers.003
+    4300000: PitEntrance/Exit
+    4300002: RacingOval
+    4300004: Cube
+    4300006: MissionControlBuilding1
+    4300008: Cube.002
+    4300010: Cube.001
+    4300012: Bleachers
+    4300014: Bleachers.001
+    4300016: Garage
+    4300018: MissionControlBuilding
+    4300020: Bleachers.003
+    4300022: Bleachers.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

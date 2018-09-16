@@ -1,0 +1,53 @@
+2016 Spyblood Productions
+email: melvinjames885@gmail.com
+
+Thank you for purchasing this package!
+
+Inside this you will find 4 game ready racing circuits and prefabs.
+
+Just place the prefab in the scene from the prefabs folder, and add your car, and you're ready to go!
+
+Tracks in this package:
+
+The Figure of Eight: 
+Total Verts: 1,780
+Total Tris: 3,339
+Description: Unleash your need for speed
+against your rivals, and the clock, in this 
+high octane treat.
+
+Racing Oval:
+Total Verts: 2,121
+Total Tris: 3,872
+Description: You wanted fame? now's your chance.
+Show the crowd and your competetors your true skill,
+mixed in with that infamous Daytona feeling.
+
+F1 Track:
+Total Verts: 2,748
+Total Tris: 4,256
+Description: Caress Concrete and Steel with tight corners,
+and deceiving straight-aways. It's a feat within itself completing a
+lap without a scratch or spinning out, Or going over 100mph without being
+flat out paranoid about the next corner being 90 degrees.
+
+Coastal Track
+Total Verts: 3,540
+Total Tris: 5,303
+Description: Feel the cool winds and salty air of the ocean, as well as the rock surface
+of the surrounding mountain this track cuts through. Wind your way up and 
+down it and eventually you'll find the starting line. Or if you're really lucky,
+some hope of not getting lost.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+
+All track models were created and textured in blender.
+
+Have any questions for me about this package or any of my other packages,
+or just a random questions, please contact me at:
+melvinjames885@gmail.com
+
+Again, thank you for purchasing this package, and have fun!
+
+
+
